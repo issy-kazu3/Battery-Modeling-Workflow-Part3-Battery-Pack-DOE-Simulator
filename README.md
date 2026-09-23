@@ -41,14 +41,17 @@ Plain Text
 DOE Input
 
 │
+
 ▼
 
 Energy Flow Simulator
 
 │
+
 ▼
 Pack Feasibility Evaluation
 │
+
 ▼
 
 Design Space Exploration
