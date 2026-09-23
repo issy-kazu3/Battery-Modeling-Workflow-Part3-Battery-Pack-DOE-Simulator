@@ -62,8 +62,8 @@ This repository is part of a Python-based battery engineering workflow developed
 
 ## Previous projects:
 
-Cell Parameter Identification
+- Cell Parameter Identification : https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part1-Parameter-Identification
 
-Battery Energy Flow Simulator
+- Battery Energy Flow Simulator : https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part2-Battery-energy-simulation
 
 The current repository extends these tools to system-level battery pack optimization and design space exploration.
