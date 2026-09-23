@@ -37,11 +37,9 @@ Battery configuration
 
 ## Workflow
 
-Plain Text
 DOE Input
 
 │
-
 ▼
 
 Energy Flow Simulator
@@ -49,7 +47,9 @@ Energy Flow Simulator
 │
 
 ▼
+
 Pack Feasibility Evaluation
+
 │
 
 ▼
