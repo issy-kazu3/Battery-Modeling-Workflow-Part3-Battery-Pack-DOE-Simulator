@@ -34,7 +34,9 @@ Pack weight
 Voltage margin
 Depth of discharge (DOD)
 Battery configuration
-Workflow
+
+## Workflow
+
 Plain Text
 DOE Input
 │
