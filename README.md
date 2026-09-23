@@ -4,9 +4,11 @@ A Python-based Design of Experiments (DOE) tool for battery pack architecture ex
 
 This project is the third step of a battery simulation workflow:
 
-Cell parameter identification from raw measurement data
-Battery energy flow simulation
-DOE-based battery pack design exploration (this repository)
+Part-1 : Cell parameter identification from raw measurement data
+
+Part-2 : Battery energy flow simulation
+
+Part-3 : DOE-based battery pack design exploration (this repository)
 
 The DOE engine automatically generates series-parallel pack configurations, evaluates battery pack performance using the energy flow simulator, and identifies feasible designs satisfying voltage, energy, and weight constraints.
 
@@ -58,9 +60,10 @@ Background
 
 This repository is part of a Python-based battery engineering workflow developed as an open alternative to commercial DOE environments.
 
-Previous projects:
+## Previous projects:
 
 Cell Parameter Identification
+
 Battery Energy Flow Simulator
 
 The current repository extends these tools to system-level battery pack optimization and design space exploration.
