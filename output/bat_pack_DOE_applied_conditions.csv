@@ -1,0 +1,13 @@
+cell capa(Ah),1.8
+wt g,100.0
+max v,4.2
+min v,2.7
+max charge cell cur,300.0
+start soc,50.0
+max current,300.0
+max sys v,700.0
+min sys v,290.0
+n-seri max,200.0
+n-seri min,100.0
+n-para max,4.0
+n-para min,1.0
