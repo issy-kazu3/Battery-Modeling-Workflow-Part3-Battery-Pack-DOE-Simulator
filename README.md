@@ -57,12 +57,13 @@ Design Space Exploration
 
 The DOE analysis identifies:
 
-Feasible pack architectures
-Required series-parallel combinations
-Weight versus battery performance trade-offs
-Risk zones caused by excessive DOD
-Overdesigned regions with unnecessary pack mass
-Background
+- Feasible pack architectures
+- Required series-parallel combinations
+- Weight versus battery performance trade-offs
+- Risk zones caused by excessive DOD
+- Overdesigned regions with unnecessary pack mass
+
+## Background
 
 This repository is part of a Python-based battery engineering workflow developed as an open alternative to commercial DOE environments.
 
