@@ -13,17 +13,18 @@ This project is the third step of a battery simulation workflow:
 The DOE engine automatically generates series-parallel pack configurations, evaluates battery pack performance using the energy flow simulator, and identifies feasible designs satisfying voltage, energy, and weight constraints.
 
 ![DOE](https://github.com/issy-kazu3/Battery-Modeling-Workflow-Part3-Battery-Pack-DOE-Simulator/blob/main/image/overview_of_DOE.png)
-Concept
+
+## Concept
 
 Instead of evaluating a single battery pack design, this tool explores an entire design space.
 
 For each combination of:
 
-Number of series cells
-Number of parallel cells
-Cell specification
-Voltage limits
-Energy requirements
+- Number of series cells
+- Number of parallel cells
+- Cell specification
+- Voltage limits
+- Energy requirements
 
 the simulator evaluates feasibility and visualizes the resulting design space.
 
