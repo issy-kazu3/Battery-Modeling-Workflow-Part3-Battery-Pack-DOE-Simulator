@@ -39,17 +39,21 @@ Battery configuration
 
 Plain Text
 DOE Input
+
 │
 ▼
+
 Energy Flow Simulator
+
 │
 ▼
 Pack Feasibility Evaluation
 │
 ▼
+
 Design Space Exploration
-その他の行を表示する
-Typical Results
+
+## Typical Results
 
 The DOE analysis identifies:
 
